@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **JavaScript**
 
-- 👨‍💻 Check out my portfolio at [https://danielshepardson.com/](https://danielshepardson.com/)
+- 👨‍💻 Check out my [portfolio!](https://danielshepardson.com/)<a href="">
 
 - 📫Get in touch with me at **codingwdan@gmail.com**
 
