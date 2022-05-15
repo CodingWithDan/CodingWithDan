@@ -1,3 +1,5 @@
+<img align="center" src="https://github.com/CodingWithDan/CodingWithDan/blob/main/1.png?raw=true" alt="CodingWithDan"/>
+
 <h1 align="center">Hi 👋, I'm Daniel</h1>
 <h3 align="center">A passionate full stack software engineer from Los Angeles, CA</h3>
 
