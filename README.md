@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning **JavaScript**
 
 - 👨‍💻 Check out my [portfolio!](https://danielshepardson.com/)<a href="">
-
+  
 - 📫Get in touch with me at **codingwdan@gmail.com**
 
 <h3 align="center">Connect with me:</h3>
