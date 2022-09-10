@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Daniel</h1>
 <h3 align="center">A passionate full stack software engineer from Los Angeles, CA</h3>
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **React**
 
 - 👨‍💻 For more information, check out my [portfolio!](https://danielshepardson.com/)
   
@@ -51,22 +51,22 @@
   
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Elegant List Maker</h3>
+      <h3 align="center">NoteWorthy</h3>
         <br />
-        <a target="_blank" href="xxx">
-            <img src="xxx" width="100%" alt=""/>
+        <a target="_blank" href="https://github.com/CodingWithDan/NoteWorthy">
+            <img src="NoteWorthy.gif" width="100%" alt=""/>
         </a>
         <br />
         <p align="center">
            
-  <a href="https://github.com/CodingWithDan/" target="_blank">
+  <a href="https://github.com/CodingWithDan/NoteWorthy" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="https://codingwithdancalculator.netlify.app/" target="_blank">
+  <a href="https://github.com/CodingWithDan/NoteWorthy" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>Javascript, CSS, HTML, Node, Express, MongoDB</strong> - A task list that allows you to add, remove, and edit items to make the most of your day!</p>
+        <p><strong>Javascript, CSS, HTML, Node, Express, MongoDB, MVC Architecture</strong> - A task list that allows you to add, remove, and edit items to make the most of your day!</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Star Trek Alien Field Guide</h3>
