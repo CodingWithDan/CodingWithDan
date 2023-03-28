@@ -7,7 +7,7 @@
 
 - 👨‍💻 For more information, check out my [portfolio!](https://danielshepardson.com/)
   
-- 📫Get in touch with me at **codingwdann@gmail.com**
+- 📫Get in touch with me at **codingwdan@gmail.com**
 
 <h3 align="center">Connect with me:</h3>
 
